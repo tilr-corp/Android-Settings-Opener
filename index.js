@@ -1,6 +1,2 @@
-
-import { NativeModules } from 'react-native';
-
-const { RNAndroidSettingsOpener } = NativeModules;
-
-export default RNAndroidSettingsOpener;
+const { NativeModules } = require('react-native');
+module.exports = NativeModules.AndroidAppSettingsOpener;
