@@ -1,5 +1,5 @@
 {
-  "name": "react-native-android-settings-opener",
+  "name": "android-settings-opener",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,9 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/tilr-corp/Android-Settings-Opener.git"
   },
-  "keywords": [
-    "react-native"
-  ],
   "author": "Oliver Sheng",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tilr-corp/Android-Settings-Opener/issues"
+  },
+  "homepage": "https://github.com/tilr-corp/Android-Settings-Opener#readme"
 }
